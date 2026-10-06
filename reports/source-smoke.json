@@ -1,0 +1,8 @@
+{
+  "date": "2026-10-06",
+  "source": "https://api.insee.fr/melodi/data/DS_POPULATIONS_REFERENCE?GEO=FRANCE-F&maxResult=10&totalCount=true",
+  "responseSha256": "7f9ab5159b6cb96a61650861db71fe77c7b64d16e8f7089e82f3fc60b9eb8c7a",
+  "kind": "appel-reel-service-public",
+  "notes": "Test de connectivité et de contrat ; aucune validation de performance sémantique.",
+  "complete": true
+}

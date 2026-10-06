@@ -1,0 +1,6 @@
+2200
+EUR/mois
+2025
+France
+mediane
+Salaire net médian mensuel des salariés du privé en équivalent temps plein.

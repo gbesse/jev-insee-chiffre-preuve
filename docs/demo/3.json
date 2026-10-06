@@ -1,0 +1,44 @@
+{
+  "id": "jev-insee-chiffre-preuve-autre-population",
+  "tolerance": 0,
+  "claim": {
+    "docId": "a",
+    "value": 2200,
+    "unit": "EUR/mois",
+    "period": "2025",
+    "territory": "France",
+    "statistic": "mediane",
+    "population": "Salaire net médian mensuel des salariés du privé en équivalent temps plein."
+  },
+  "observation": {
+    "docId": "b",
+    "value": 2200,
+    "unit": "EUR/mois",
+    "period": "2025",
+    "territory": "France",
+    "statistic": "mediane",
+    "definition": "Revenu disponible annuel de tous les ménages, y compris retraites et prestations."
+  },
+  "documents": [
+    {
+      "id": "a",
+      "text": "2200\nEUR/mois\n2025\nFrance\nmediane\nSalaire net médian mensuel des salariés du privé en équivalent temps plein.",
+      "source": {
+        "uri": "fixture:a",
+        "date": "2026-10-06",
+        "kind": "synthetique",
+        "licence": "CC0-1.0"
+      }
+    },
+    {
+      "id": "b",
+      "text": "2200\nEUR/mois\n2025\nFrance\nmediane\nRevenu disponible annuel de tous les ménages, y compris retraites et prestations.",
+      "source": {
+        "uri": "fixture:b",
+        "date": "2026-10-06",
+        "kind": "synthetique",
+        "licence": "CC0-1.0"
+      }
+    }
+  ]
+}
