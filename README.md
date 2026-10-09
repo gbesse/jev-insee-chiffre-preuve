@@ -71,3 +71,7 @@ Les tests locaux passent sous Node 22 et 24. Jev retrouve 6/6 statuts globaux at
 Une observation sélectionnée ne garantit pas que toutes les séries pertinentes ont été examinées. Source, révision et définition restent visibles.
 
 Version initiale : corpus synthétique, sans supériorité SOTA ni trafic démontrés. Les champs normalisés doivent être contrôlés contre les originaux. Code MIT ; exemples CC0. Projet indépendant, sans affiliation aux organismes ou à TypeSafe AI.
+
+## Contrôle d’adoption · Adoption check · Comprobación de adopción
+
+[Français : essayer un cas concret](examples/adoption-check.md) · [English: try a concrete case](examples/adoption-check.md) · [Español: pruebe un caso concreto](examples/adoption-check.md).
