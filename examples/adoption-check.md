@@ -40,3 +40,15 @@ FR : adaptez une copie de la fixture locale à cette situation, puis vérifiez l
 EN: adapt a copy of the local fixture to this situation, then check the behavior described above. Values are illustrative, not measured Jev output.
 
 ES: adapte una copia de la fixture local a esta situación y compruebe el comportamiento descrito arriba. Los valores son ilustrativos, no resultados Jev medidos.
+
+## Second cas · Second case · Segundo caso
+
+```text
+claim.territory=France; source.territory=Occitanie
+```
+
+**FR :** Une valeur citée pour l’Occitanie ne prouve pas une affirmation sur toute la France. Conservez le territoire de chaque pièce dans le dossier.
+
+**EN:** A value cited for Occitanie does not support a claim about all of France. Keep each source’s territory in the evidence file.
+
+**ES:** Un valor citado para Occitania no respalda una afirmación sobre toda Francia. Conserve el territorio de cada fuente en el expediente.
